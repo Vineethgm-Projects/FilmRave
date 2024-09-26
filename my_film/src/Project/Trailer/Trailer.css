@@ -1,0 +1,32 @@
+.card
+{
+    height:400px;
+    width:500px;
+    background-color: rgb(41, 41, 41);
+    border-radius: 5%;
+    color: azure;
+    margin-right: 0.3rem;
+}
+.slider
+{
+    display: grid;
+    grid-auto-flow: column;
+    gap:.3rem;
+    scrollbar-width: none;
+    padding-top: .3rem;
+}
+.body12
+{
+    background-color: black;
+}
+.empty
+{
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    gap: 0.3rem;
+    overflow-x: none;
+    width: 1500px; /* Enable horizontal scrolling */
+  }

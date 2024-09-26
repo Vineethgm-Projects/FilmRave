@@ -1,0 +1,17 @@
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  }
+  
+  .icons svg {
+    width: 30px;
+    height: 30px;
+    color: #405de6; /* Set the color of the icon */
+  }
+  .empty
+  {
+    height: 30px;
+  }
+  

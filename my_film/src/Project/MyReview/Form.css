@@ -1,0 +1,11 @@
+.a{
+    font-size: large;
+    color:blueviolet;
+}
+.bgcolor{
+    background-color: rgb(100, 155, 136);
+    margin-top: 10%;
+    margin-left: 30%;
+    padding:100px;
+    margin-right: 40%;
+}
