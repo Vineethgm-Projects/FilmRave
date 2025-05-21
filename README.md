@@ -1,6 +1,6 @@
-# Explore Epic — Your Smart Travel Buddy
+# FilmRave — ReactJS & Spring Boot Movie Review Application
 
-**Explore Epic** is a full-stack travel planning web application designed to help users explore, book, and manage travel packages effortlessly. With personalized recommendations, real-time booking updates, live tour tracking, and an AI travel assistant, Explore Epic brings the convenience of a personal travel planner to your screen.
+**FilmRave** is a full-stack web application that allows users to explore, review, and discuss movies in a vibrant, community-driven environment. Built with a ReactJS frontend and a Spring Boot backend, the platform delivers a seamless user experience along with powerful backend capabilities for performance, security, and scalability.
 
 ---
 
@@ -15,51 +15,51 @@
 
 ## Features
 
-- Discover travel packages by destination, activity, and budget
-- Book tours with real-time price and availability updates
-- Save your favorite packages to a personal wishlist
-- Track tour progress with a live tour tracker
-- Chatbot assistant ("Travel Tom") for instant user support
-- Submit and view reviews and ratings from fellow travelers
-- Secure user authentication and role-based access
+- Browse a collection of movies by genre, title, or popularity
+- Write, read, and rate movie reviews
+- Receive personalized movie recommendations based on watch history
+- Participate in real-time discussions and comment on reviews
+- Maintain a user dashboard with watchlists and activity summaries
+- Secure authentication with role-based access control
 
 ---
 
 ## Why I Built This
 
-Planning a trip should be exciting—not stressful. But with fragmented information and impersonal tools, it often isn’t.  
-**Explore Epic** simplifies the process by bringing all the essential travel planning tools into one place, offering users a smooth and personalized experience. From discovering hidden gems to tracking your tour in real time, this app is your smart travel companion.
+Traditional movie review platforms often lack a personal touch and interactive features. **FilmRave** aims to bridge that gap by combining robust technical architecture with a user-first design. The goal is to create a platform that fosters community engagement while delivering personalized content tailored to each user's preferences.
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-- React.js
-- React Router
+
+- ReactJS
 - Axios
+- React Router
 - Bootstrap / Material UI (if used)
 
 ### Backend
+
 - Spring Boot
 - Spring Security
 - JPA / Hibernate
-- MySQL
+- MySQL or PostgreSQL
 
 ### APIs & Tools
-- RESTful API Architecture
-- JWT-based authentication
-- Google Maps API (if used for live tracking)
+
+- RESTful API architecture
+- JWT-based authentication and authorization
 
 ---
 
 ## Usage
 
-1. Register or Login to your account
-2. Search and filter travel packages by destination or activity
-3. Add packages to your wishlist for future planning
-4. Book tours with real-time updates
-5. Track your trip using the live tracker
-6. Review and rate after completing your trip
+1. Register or log in to access the platform
+2. Browse and search for movies
+3. Read and write reviews for movies
+4. Add movies to your watchlist
+5. Engage in community discussions and rate other reviews
+6. View personalized recommendations and dashboard statistics
 
 ---
